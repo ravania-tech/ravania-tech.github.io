@@ -1,165 +1,158 @@
-# Privacy Policy  
-**Land Manifest**  
+# Privacy Policy
 Last updated: 08 December 2025
 
-Land Manifest (“we”, “our”, or “us”) operates as a Transportation Management System designed to help logistics operators and drivers manage shipments, ensure ODOL (Over Dimension Over Load) compliance, and improve road safety.  
-This Privacy Policy explains how we collect, use, store, and protect your information when using our platform (web and mobile).
+This Privacy Policy explains how we collect, use, store, and protect your information when you use our application or services (“Service”). By accessing or using the Service, you agree to the practices described in this Privacy Policy.
 
-By using Land Manifest, you agree to the collection and use of information in accordance with this Privacy Policy.
+If you do not agree with any part of this Privacy Policy, please discontinue use of the Service.
 
 ---
 
 ## 1. Information We Collect
 
-We collect several types of information to provide better service and ensure compliance features work properly.
+We may collect several types of information, depending on how you interact with our Service.
 
-### **1.1 Personal Information**
-Collected when users create accounts:
-- Full name  
-- Email address  
-- Phone number  
-- Company information (if applicable)  
-- User role (Operator, Driver, Super Admin)
+### 1.1 Personal Information
+Information provided directly by users, such as:
+- Name
+- Email address
+- Phone number
+- Company or organization (if applicable)
+- Login credentials (stored in encrypted format)
 
-### **1.2 Driver & Fleet Information**
-- Driver profile data  
-- Driver license information (SIM number, type, expiry)  
-- Vehicle data: license plate, vehicle type, legal weight capacity, documents (STNK, KIR)
+### 1.2 Usage & Device Information
+Automatically collected when using the Service:
+- IP address
+- Device type and operating system
+- Browser type
+- App usage logs
+- Access times and dates
 
-### **1.3 Location Data**
-To support GPS tracking during delivery:
-- Real-time location (latitude & longitude)
-- Speed and movement logs
-- Pickup & destination coordinates
+### 1.3 Location Data (If Enabled)
+The Service may collect approximate or precise location data to support certain features (e.g., tracking, navigation, or personalization).  
+Users may disable location access at any time through device settings.
 
-This data is only collected while the driver is on active delivery and using the Land Manifest app.
+### 1.4 Uploaded Files & Media
+Users may upload files, images, or documents as part of using the Service. These are stored securely and accessed only as needed to operate the Service.
 
-### **1.4 Cargo & Shipment Data**
-- Cargo weight  
-- Cargo dimensions  
-- Item details in manifest  
-- Proof of Delivery (POD) documents or photos  
-- Incident Reports (if submitted)
-
-### **1.5 Device Information**
-- Device model  
-- Operating system  
-- IP address  
-- App usage logs  
+### 1.5 Communication Data
+Any messages or inquiries sent to us (email, support requests, feedback).
 
 ---
 
 ## 2. How We Use Your Information
 
-We use collected data to:
-- Facilitate shipment creation and dispatching  
-- Validate cargo weight & dimensions for ODOL compliance  
-- Provide real-time tracking and status updates  
-- Generate alerts for overload or route deviations  
-- Improve fleet safety and operational efficiency  
-- Provide training modules and compliance education  
-- Maintain system security & prevent misuse  
-- Generate anonymized analytics and reports for CSR or regulatory partners  
+We use collected information to:
+- Provide and operate the Service  
+- Improve user experience and functionality  
+- Personalize features or content  
+- Respond to customer support requests  
+- Enhance system security and prevent misuse  
+- Analyze usage trends and performance  
+- Communicate updates, announcements, or changes to the Service  
 
-We **do not sell** your data to third parties.
+We do **not** sell your personal information to third parties.
 
 ---
 
-## 3. Data Sharing & Disclosure
+## 3. Sharing of Information
 
-We may share certain data only under these conditions:
+We may share information only under the following conditions:
 
-### **3.1 Internal Company Sharing**
-Within the same tenant/company:
-- Operators may view driver & vehicle data  
-- Supervisors can monitor delivery progress  
+### 3.1 Service Providers
+Trusted third-party partners who help operate or support the Service, such as:
+- Hosting providers  
+- Analytics tools  
+- Customer support platforms  
 
-### **3.2 CSR Partner / Regulator**
-For ODOL compliance and reporting:
-- Aggregated data (never personal)  
-- Total ODOL warnings  
-- Compliance improvements  
-- Training completion rates  
+These providers are obligated to maintain confidentiality.
 
-### **3.3 Legal Requirements**
+### 3.2 Legal Compliance
 We may disclose information if required by:
-- Law enforcement  
-- Government regulations  
-- Court orders
+- Law or regulation  
+- Court orders  
+- Government authorities  
 
-We do **not** share your personal data for marketing or advertising.
+### 3.3 Business Transfers
+If the company undergoes a merger, acquisition, or asset transfer, user data may be included as part of the transaction, subject to the same protections.
 
 ---
 
-## 4. Data Storage & Security
+## 4. Data Security
 
-We implement strong security measures:
-- Encrypted communication (HTTPS / TLS)
-- Role-based access control (RBAC)
-- Row-Level Security (RLS) per company (tenant isolation)
-- Password hashing and secure authentication  
-- Audit trail & logging for important activities
+We implement industry-standard security measures to protect your information, including:
+- Encrypted communication (HTTPS/TLS)  
+- Password encryption or hashing  
+- Restricted access controls  
+- Secure hosting environments  
 
-Your data is stored on secure servers located in Indonesia or regions that comply with data protection standards.
+No method of data transmission is 100% secure, but we strive to protect your data to the best of our ability.
 
 ---
 
 ## 5. Data Retention
 
-We retain data for operational, regulatory, and safety purposes:
-- GPS data: retained for operational and route history needs  
-- Delivery data: stored permanently unless legally required to delete  
-- Account information: stored as long as the account is active  
-- Audit logs: retained according to compliance requirements  
+We retain information only as long as necessary to:
+- Operate the Service  
+- Comply with legal obligations  
+- Resolve disputes  
+- Enforce our terms  
 
-If your company stops using Land Manifest, you may request data deletion.
+Users may request deletion of their information where legally applicable.
 
 ---
 
-## 6. Your Rights
+## 6. User Rights
 
-You have the right to:
+Depending on your jurisdiction, you may have rights to:
 - Access your personal data  
 - Update or correct information  
-- Request deletion (where possible)  
-- Request export of your data  
-- Withdraw consent (may impact app usage)
+- Request deletion  
+- Request a copy (data portability)  
+- Withdraw consent for specific data usage  
 
-Requests can be made via:  
-**landmanifestmatalogix@gmail.com**.
+To request these actions, please contact us at the email provided below.
 
 ---
 
 ## 7. Cookies & Tracking Technologies
 
-The web application may use cookies to:
-- Keep users logged in  
-- Improve user experience  
-- Measure analytics  
+The Service may use cookies or similar technologies to:
+- Maintain user sessions  
+- Improve performance  
+- Analyze behavior  
+- Personalize content  
 
-No advertising cookies are used.
+Users may configure their browser to reject cookies, though some features may not function properly.
 
 ---
 
 ## 8. Children’s Privacy
 
-Land Manifest is **not intended for users under 18 years old**.  
-We do not knowingly collect personal data from minors.
+The Service is **not intended for users under 18 years of age**.  
+We do not knowingly collect personal information from children.  
+If such data is discovered, it will be deleted promptly.
 
 ---
 
-## 9. Updates to This Privacy Policy
+## 9. Third-Party Links
 
-We may update this Privacy Policy from time to time.  
-Any changes will be posted on this page with the updated date.
+The Service may contain links to external websites or services.  
+We are not responsible for the privacy practices or content of third-party platforms.
 
 ---
 
-## 10. Contact Us
+## 10. Changes to This Privacy Policy
 
-If you have any questions or concerns related to this Privacy Policy, contact us at:
+We may update this Privacy Policy periodically.  
+Changes will be posted on this page with a revised “Last updated” date.  
+Continued use of the Service indicates acceptance of the updated policy.
 
-**Email:** landmanifestmatalogix@gmail.com  
-**Company:** Matalogix Mitra Indonesia  
-**Address:** Jakarta, Indonesia
+---
 
+## 11. Contact Us
+
+If you have questions, concerns, or requests related to this Privacy Policy, please reach us at:
+
+**Email:** support@ravaniatechnology.com
+**Company:** Ravania Technology  
+**Address:** Bandung, Indonesia
