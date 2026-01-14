@@ -11,30 +11,46 @@ If you do not agree with any part of this Privacy Policy, please discontinue use
 
 We may collect several types of information, depending on how you interact with our Service.
 
-### 1.1 Personal Information
+### 1.1 Account and Profile Information
 Information provided directly by users, such as:
 - Name
 - Email address
 - Phone number
 - Company or organization (if applicable)
 - Login credentials (stored in encrypted format)
+- Profile photo, address, and driver or license details (if provided)
+- Biometric authentication (Face ID) may be used to secure access; biometric data stays on your device
 
-### 1.2 Usage & Device Information
+### 1.2 Order and Delivery Data
+Information related to operational tasks in the App, such as:
+- Order or tracking codes
+- Pickup and destination addresses
+- Cargo or delivery details
+- Proof of delivery data (signatures, photos, incident reports)
+
+### 1.3 Location Data (Foreground and Background)
+The App collects precise location data to support driver tracking, navigation, and operational status updates. Location data may be collected in the foreground and in the background when tracking is active and permission is granted.  
+Users may disable location access in device settings, but core tracking features may stop working.
+
+### 1.4 Usage and Device Information
 Automatically collected when using the Service:
 - IP address
-- Device type and operating system
-- Browser type
-- App usage logs
-- Access times and dates
+- Device type, model, and operating system
+- App version
+- Device identifiers and push notification tokens
+- App usage logs, access times, and diagnostic data
 
-### 1.3 Location Data (If Enabled)
-The Service may collect approximate or precise location data to support certain features (e.g., tracking, navigation, or personalization).  
-Users may disable location access at any time through device settings.
+### 1.5 Photos, Camera, and File Uploads
+Users may capture or upload photos, documents, or other files, such as:
+- Profile photos
+- Driver licenses or compliance documents
+- Incident report attachments
+- Proof of delivery images
 
-### 1.4 Uploaded Files & Media
-Users may upload files, images, or documents as part of using the Service. These are stored securely and accessed only as needed to operate the Service.
+### 1.6 Notifications
+If you enable push notifications, we collect and store a device push token to send operational alerts and order updates.
 
-### 1.5 Communication Data
+### 1.7 Communication Data
 Any messages or inquiries sent to us (email, support requests, feedback).
 
 ---
@@ -42,13 +58,14 @@ Any messages or inquiries sent to us (email, support requests, feedback).
 ## 2. How We Use Your Information
 
 We use collected information to:
-- Provide and operate the Service  
-- Improve user experience and functionality  
-- Personalize features or content  
+- Provide and operate the Service, including authentication and account management  
+- Assign, track, and update delivery and order status  
+- Send location updates for dispatch, routing, and compliance  
+- Enable file uploads, proof of delivery, and incident reporting  
+- Send notifications and operational alerts  
 - Respond to customer support requests  
 - Enhance system security and prevent misuse  
-- Analyze usage trends and performance  
-- Communicate updates, announcements, or changes to the Service  
+- Analyze performance and maintain service reliability  
 
 We do **not** sell your personal information to third parties.
 
@@ -60,19 +77,22 @@ We may share information only under the following conditions:
 
 ### 3.1 Service Providers
 Trusted third-party partners who help operate or support the Service, such as:
-- Hosting providers  
-- Analytics tools  
+- Hosting and storage providers  
+- Push notification services  
 - Customer support platforms  
 
 These providers are obligated to maintain confidentiality.
 
-### 3.2 Legal Compliance
+### 3.2 Business Customers
+If you use the App as part of a company or organization, your data (including location and order status) may be shared with that organization to operate the Service.
+
+### 3.3 Legal Compliance
 We may disclose information if required by:
 - Law or regulation  
 - Court orders  
 - Government authorities  
 
-### 3.3 Business Transfers
+### 3.4 Business Transfers
 If the company undergoes a merger, acquisition, or asset transfer, user data may be included as part of the transaction, subject to the same protections.
 
 ---
@@ -97,6 +117,8 @@ We retain information only as long as necessary to:
 - Resolve disputes  
 - Enforce our terms  
 
+Location data may be cached locally when you are offline and sent once connectivity is restored. Cached location data and local logs are cleared when no longer needed or when you log out.
+
 Users may request deletion of their information where legally applicable.
 
 ---
@@ -114,15 +136,9 @@ To request these actions, please contact us at the email provided below.
 
 ---
 
-## 7. Cookies & Tracking Technologies
+## 7. Cookies and Similar Technologies
 
-The Service may use cookies or similar technologies to:
-- Maintain user sessions  
-- Improve performance  
-- Analyze behavior  
-- Personalize content  
-
-Users may configure their browser to reject cookies, though some features may not function properly.
+The App does not use browser cookies. It may use secure local storage on your device to keep you signed in and to store operational data needed for the Service.
 
 ---
 
