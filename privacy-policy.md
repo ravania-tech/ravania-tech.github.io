@@ -1,7 +1,7 @@
 # Privacy Policy
-Last updated: 08 December 2025
+Last updated: 14 January 2026
 
-This Privacy Policy explains how we collect, use, store, and protect your information when you use our application or services (“Service”). By accessing or using the Service, you agree to the practices described in this Privacy Policy.
+This Privacy Policy applies to the **Land Manifest** mobile application (“App”) published by **Land Manifest Matalogix** (“we,” “us,” or “our”). This Privacy Policy explains how we collect, use, store, and protect your information when you use our App or services (“Service”). By accessing or using the Service, you agree to the practices described in this Privacy Policy.
 
 If you do not agree with any part of this Privacy Policy, please discontinue use of the Service.
 
@@ -153,6 +153,6 @@ Continued use of the Service indicates acceptance of the updated policy.
 
 If you have questions, concerns, or requests related to this Privacy Policy, please reach us at:
 
-**Email:** support@ravaniatechnology.com
-**Company:** Ravania Technology  
-**Address:** Bandung, Indonesia
+**Email:** landmanifestmatalogix@gmail.com
+**Company:** Matalogix Mitra Indonesia x Ravania Technology
+**Address:** Jakarta, Indonesia
