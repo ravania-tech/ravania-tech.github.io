@@ -153,6 +153,6 @@ Continued use of the Service indicates acceptance of the updated policy.
 
 If you have questions, concerns, or requests related to this Privacy Policy, please reach us at:
 
-**Email:** landmanifestmatalogix@gmail.com
+**Email:** landmanifestmatalogix@gmail.com | support@ravaniatechnology.com
 **Company:** Matalogix Mitra Indonesia x Ravania Technology
 **Address:** Jakarta, Indonesia
